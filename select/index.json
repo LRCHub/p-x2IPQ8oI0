@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Poppin' Run",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-03-14T14:32:29.228807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poppin' Run",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/01_Poppin'_Run_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poppin' Run",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/02_Poppin'_Run_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Poppin' Run",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_Poppin'_Run_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
